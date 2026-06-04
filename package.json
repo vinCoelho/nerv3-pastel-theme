@@ -11,9 +11,8 @@
   "engines": {
     "vscode": "^1.120.0"
   },
-  "categories": [
-    "Themes"
-  ],
+  "categories": ["Themes"],
+  "icon": "images/icon.png",
   "contributes": {
     "themes": [
       {
@@ -22,10 +21,10 @@
         "path": "./themes/nerv-pastel-color-theme.json"
       },
       {
-      "label": "Nerv3 Pastel Shadowrun",
-      "uiTheme": "vs-dark",
-      "path": "./themes/nerv-pastel-dark-color-theme.json"
-    }
+        "label": "Nerv3 Pastel Shadowrun",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nerv-pastel-dark-color-theme.json"
+      }
     ]
   }
 }

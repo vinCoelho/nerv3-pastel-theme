@@ -2,3 +2,5 @@ node_modules
 *.vsix
 .env
 bak.json
+/docs
+.DS_Store

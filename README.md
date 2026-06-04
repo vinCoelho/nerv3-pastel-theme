@@ -4,6 +4,20 @@ Nerv3 Pastel is a soft cyberpunk-inspired theme for Visual Studio Code, designed
 
 It combines pastel surfaces, neon accents and carefully balanced syntax colors to create a comfortable coding experience in both light and dark environments.
 
+## Previews
+
+### Nerv3 Pastel Daylight
+
+<p align="center">
+  <img src="images/light-preview.png" alt="Nerv3 Pastel Daylight Preview" width="900">
+</p>
+
+### Nerv3 Pastel Shadowrun
+
+<p align="center">
+  <img src="images/dark-preview.png" alt="Nerv3 Pastel Shadowrun Preview" width="900">
+</p>
+
 ## Themes included
 
 This extension includes two themes:
