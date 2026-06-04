@@ -1,0 +1,27 @@
+{
+  "name": "nerv3-pastel",
+  "displayName": "nerv3-pastel-theme",
+  "description": "A soft cyberpunk theme for VS Code, made by nerv3 tech.",
+  "version": "0.0.1",
+  "publisher": "dringz",
+  "engines": {
+    "vscode": "^1.120.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nerv3 Pastel Daylight",
+        "uiTheme": "vs",
+        "path": "./themes/nerv-pastel-color-theme.json"
+      },
+      {
+      "label": "Nerv3 Pastel Shadowrun",
+      "uiTheme": "vs-dark",
+      "path": "./themes/nerv-pastel-dark-color-theme.json"
+    }
+    ]
+  }
+}
