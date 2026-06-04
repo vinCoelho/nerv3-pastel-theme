@@ -2,14 +2,14 @@
   "name": "nerv3-pastel",
   "displayName": "nerv3-pastel-theme",
   "description": "A soft cyberpunk theme for VS Code, made by nerv3 tech.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "nerv3tech",
   "repository": {
     "type": "git",
     "url": "https://github.com/vinCoelho/nerv3-pastel-theme"
   },
   "engines": {
-    "vscode": "^1.120.0"
+    "vscode": "^1.90.0"
   },
   "categories": ["Themes"],
   "icon": "images/icon.png",
