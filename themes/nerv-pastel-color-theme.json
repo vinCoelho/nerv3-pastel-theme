@@ -167,7 +167,7 @@
     "terminal.background": "#F3F0FC",
 
     // Texto principal do terminal integrado
-    "terminal.foreground": "#635CF8",
+    "terminal.foreground": "#1F1B33",
 
     // Cor do cursor no terminal
     "terminalCursor.foreground": "#8bec79",
@@ -248,7 +248,7 @@
     "panelTitle.activeForeground": "#635CF8",
 
     // Borda do título ativo do painel
-    "panelTitle.activeBorder": "#00A361",
+    "panelTitle.activeBorder": "#635CF8",
 
     // Títulos inativos do painel
     "panelTitle.inactiveForeground": "#81789E",
@@ -381,7 +381,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#8C85A8",
+        "foreground": "#c98e5e",
         "fontStyle": "italic"
       }
     },
@@ -426,7 +426,7 @@
         "keyword.operator.expression"
       ],
       "settings": {
-        "foreground": "#9151B8",
+        "foreground": "#b75eee",
         "fontStyle": ""
       }
     },
@@ -833,7 +833,7 @@
     // Funções
     "function": {
       "foreground": "#635CF8",
-      "fontStyle": "italic bold"
+      "fontStyle": "italic"
     },
 
     // Macros
@@ -871,7 +871,7 @@
 
     // Comentários
     "comment": {
-      "foreground": "#8C85A8",
+      "foreground": "#c98e5e",
       "fontStyle": "italic"
     },
 
@@ -905,13 +905,13 @@
     // Funções estáticas
     "function.static": {
       "foreground": "#635CF8",
-      "fontStyle": ""
+      "fontStyle": "italic"
     },
 
     // Métodos estáticos
     "method.static": {
       "foreground": "#635CF8",
-      "fontStyle": ""
+      "fontStyle": "italic"
     },
 
     // Variáveis estáticas

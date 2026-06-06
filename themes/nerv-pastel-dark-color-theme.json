@@ -59,7 +59,7 @@
     "sideBar.border": "#2B2444",
 
     // Fundo da Activity Bar à esquerda
-    "activityBar.background": "#0E0B18",
+    "activityBar.background": "#120F20",
 
     // Ícone ativo da Activity Bar
     "activityBar.foreground": "#8bec79",
@@ -92,7 +92,7 @@
     "tab.activeBackground": "#151224",
 
     // Texto da aba ativa
-    "tab.activeForeground": "#8bec79",
+    "tab.activeForeground": "#90ffb1",
 
     // Abas inativas
     "tab.inactiveBackground": "#120F20",
@@ -164,7 +164,7 @@
     "panel.border": "#2B2444",
 
     // Fundo do terminal integrado
-    "terminal.background": "#0E0B18",
+    "terminal.background": "#120F20",
 
     // Texto principal do terminal integrado
     "terminal.foreground": "#F2EEFF",
@@ -215,7 +215,7 @@
     "terminal.ansiBrightRed": "#FF6B93",
 
     // ANSI verde brilhante
-    "terminal.ansiBrightGreen": "#8bec79",
+    "terminal.ansiBrightGreen": "#90ffb1",
 
     // ANSI amarelo brilhante
     "terminal.ansiBrightYellow": "#C7FF00",
@@ -245,10 +245,10 @@
     "terminalCommandDecoration.errorBackground": "#F24F4F",
 
     // Título ativo do painel, como Terminal / Problems / Output
-    "panelTitle.activeForeground": "#8bec79",
+    "panelTitle.activeForeground": "#90ffb1",
 
     // Borda do título ativo do painel
-    "panelTitle.activeBorder": "#8bec79",
+    "panelTitle.activeBorder": "#90ffb1",
 
     // Títulos inativos do painel
     "panelTitle.inactiveForeground": "#81789E",
@@ -293,7 +293,7 @@
     "list.hoverBackground": "#211C35",
 
     // Arquivos adicionados no Git
-    "gitDecoration.addedResourceForeground": "#8bec79",
+    "gitDecoration.addedResourceForeground": "#90ffb1",
 
     // Arquivos modificados no Git
     "gitDecoration.modifiedResourceForeground": "#3C93FA",
@@ -314,7 +314,7 @@
     "editorInfo.foreground": "#3C93FA",
 
     // Primeiro nível de par de bracket
-    "editorBracketHighlight.foreground1": "#8bec79",
+    "editorBracketHighlight.foreground1": "#90ffb1",
 
     // Segundo nível
     "editorBracketHighlight.foreground2": "#3C93FA",
@@ -347,7 +347,7 @@
         "punctuation.brace.curly"
       ],
       "settings": {
-        "foreground": "#8bec79"
+        "foreground": "#90ffb1"
       }
     },
     {
@@ -381,7 +381,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#81789E",
+        "foreground": "#d2c68d",
         "fontStyle": "italic"
       }
     },
@@ -394,7 +394,7 @@
         "string.quoted.double"
       ],
       "settings": {
-        "foreground": "#8bec79"
+        "foreground": "#90ffb1"
       }
     },
     {
@@ -510,7 +510,7 @@
         "source.java storage.type"
       ],
       "settings": {
-        "foreground": "#00AFA0",
+        "foreground": "#ff8bc9",
         "fontStyle": ""
       }
     },
@@ -633,7 +633,7 @@
         "punctuation.definition.directive"
       ],
       "settings": {
-        "foreground": "#8bec79",
+        "foreground": "#90ffb1",
         "fontStyle": ""
       }
     },
@@ -647,7 +647,7 @@
         "meta.include"
       ],
       "settings": {
-        "foreground": "#8bec79"
+        "foreground": "#90ffb1"
       }
     },
     {
@@ -701,7 +701,7 @@
         "keyword.other.unit"
       ],
       "settings": {
-        "foreground": "#8bec79"
+        "foreground": "#90ffb1"
       }
     },
     {
@@ -742,7 +742,7 @@
         "source.json.comments meta.structure.dictionary.value string.quoted.double"
       ],
       "settings": {
-        "foreground": "#8bec79"
+        "foreground": "#90ffb1"
       }
     },
     {
@@ -876,7 +876,7 @@
     },
 
     // Strings
-    "string": "#8bec79",
+    "string": "#90ffb1",
 
     // Números
     "number": "#FF6B93",
